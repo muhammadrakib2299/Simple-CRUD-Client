@@ -2,6 +2,13 @@
   "name": "simple-crud-client",
   "version": "0.1.0",
   "private": true,
+  "description": "Next.js + TypeScript client for a simple Express/MongoDB CRUD backend.",
+  "author": "Md. Rakib (https://devrakib.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadrakib2299/Simple-CRUD-Client.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
